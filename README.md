@@ -7,4 +7,4 @@ Data analysis exercises in Pandas focused on real-world reporting: cleaning miss
 2. Click **New Notebook** (or upload this project’s `.ipynb` if you have one).
 3. Upload your dataset:
    - In Colab, go to the left sidebar → **Files** → **Upload**
-   - Upload your `.csv` file (example: `data.csv`)
+   - Upload the `.csv` file
