@@ -8,7 +8,7 @@ This project demonstrates a reporting-style analysis on a salary dataset using *
 - GroupBy aggregations (wage fund, stake totals)
 - Basic visualization (pie chart + cumulative curves)
 
-> Note: This repository contains practice tasks and my solutions. It does **not** include any official exam paper text.
+> Note: This repository contains practice tasks and my solutions.
 
 ---
 
